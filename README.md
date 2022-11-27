@@ -1,5 +1,3 @@
-<center>
-
 ### Hi there, I'm Paula 👋
 
 - 🌱 I’m currently learning HTML and CSS
@@ -9,8 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/oipaula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oipaula&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oipaula&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oipaula&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oipaula&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,4 +24,3 @@
   <a href="https://www.linkedin.com/in/mxspaula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  </center>
