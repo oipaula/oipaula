@@ -1,7 +1,7 @@
 ### Hi there, I'm Paula 👋
 
-- 🌱 I’m currently learning HTML and CSS
-- 🤔 I’m looking for help with JavaScript
+- 🌱 I’m currently learning HTML, CSS and JS
+- 🤔 I’m looking for help with MySQL
 - 😄 Pronouns: she/he
 - ⚡ Fun fact: I'm brazilian. That's my fun fact.
 
