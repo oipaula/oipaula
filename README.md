@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning HTML, CSS and JS
 - 🤔 I’m looking for help with MySQL
-- 😄 Pronouns: she/he
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm brazilian. That's my fun fact.
 
 <div align="center">
