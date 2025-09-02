@@ -1,10 +1,5 @@
 ### Hi there, I'm Paula 👋
 
-- 🌱 I’m currently learning HTML, CSS and JS
-- 🤔 I’m looking for help with MySQL
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm brazilian. That's my fun fact.
-
 <div align="center">
   <a href="https://github.com/oipaula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oipaula&layout=compact&langs_count=7&theme=merko"/>
